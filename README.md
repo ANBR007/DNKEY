@@ -160,6 +160,20 @@ leitura do acelerômetro vem de
 Espero que gostem fiz porque não achei nada parecido na internet que realmente funcione
 se você gostou me page um cafézinho pra eu ficar feliz e te dar mais ferramentas
 
-Me mande um incentivo:
-Pix: b5b9a134-8f6b-4d57-9454-f1f395e99507
-André Luiz
+
+## ☕ Apoie o projeto
+
+Se este projeto foi útil para você e quiser contribuir com seu desenvolvimento, considere fazer uma doação via Pix.
+
+Toda contribuição ajuda a manter o projeto, implementar novas funcionalidades e continuar criando soluções abertas para a comunidade.
+
+**💙 Qualquer valor é bem-vindo!**
+
+**Pix (chave aleatória):**
+
+```text
+b5b9a134-8f6b-4d57-9454-f1f395e99507
+```
+
+> Obrigado por apoiar o projeto! 🚀
+
