@@ -156,3 +156,10 @@ MIT — veja [LICENSE](LICENSE) e [NOTICE.md](NOTICE.md).
 Os sons vêm do [ClickClack](https://github.com/cesarferreira/clickclack) (MIT) e a técnica de
 leitura do acelerômetro vem de
 [apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer) (MIT).
+
+Espero que gostem fiz porque não achei nada parecido na internet que realmente funcione
+se você gostou me page um cafézinho pra eu ficar feliz e te dar mais ferramentas
+
+Me mande um incentivo:
+Pix: b5b9a134-8f6b-4d57-9454-f1f395e99507
+André Luiz
